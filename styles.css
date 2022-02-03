@@ -1,0 +1,25 @@
+.m-message {
+    padding: 15px;
+   border: 7px solid red;
+    font-size:30px;
+    color:white;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.two {
+    width: 550px;
+    height: 600px;
+    padding-left: 100px;
+}
+.one {
+    width: 550px;
+    height: 600px;
+}
+.three {
+    width: 550px;
+    height: 600px;
+}
+.four {
+    width: 550px;
+    height: 600px;
+}
